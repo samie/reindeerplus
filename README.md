@@ -1,4 +1,4 @@
-![V+ logo](https://repository-images.githubusercontent.com/510833587/bffd4bef-d137-4e75-92d4-78280e266cc6)
+![Reindeer+ logo](https://repository-images.githubusercontent.com/510833587/f8659afb-7cbb-48d7-90c1-146410e56d8a)
 
 # Reindeer+
 
