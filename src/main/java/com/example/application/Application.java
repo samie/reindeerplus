@@ -13,7 +13,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * and some desktop browsers.
  */
 @SpringBootApplication
-@Theme(value = "vaadin+")
+@Theme(value = "reindeer+")
 public class Application implements AppShellConfigurator {
 
     public static void main(String[] args) {

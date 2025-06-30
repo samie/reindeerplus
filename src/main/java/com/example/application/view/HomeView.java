@@ -13,7 +13,7 @@ public class HomeView extends ComponentView {
     public HomeView() {
         addClassNames(Padding.Top.LARGE);
 
-        add(new Paragraph("Welcome to Vaadin+!"));
+        add(new Paragraph("Welcome to Reindeer+!"));
     }
 
 }

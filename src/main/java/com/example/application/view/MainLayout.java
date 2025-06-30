@@ -89,7 +89,7 @@ public class MainLayout extends AppLayout {
     }
 
     private void addDrawerContent() {
-        Span appName = new Span("Vaadin+");
+        Span appName = new Span("Reindeer+");
         appName.addClassNames(FontSize.LARGE, FontWeight.SEMIBOLD);
 
         Layout nav = new Layout(
