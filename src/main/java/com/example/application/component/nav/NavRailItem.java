@@ -15,6 +15,7 @@ public class NavRailItem extends SideNavItem {
 
     public NavRailItem(String label) {
         super(null);
+        initMouseEventListeners();
         setLabel(label);
     }
 
@@ -58,12 +59,6 @@ public class NavRailItem extends SideNavItem {
         } else {
             this.label.setText(label);
         }
-    }
-
-    @Override
-    protected void setupSideNavItem(SideNavItem item) {
-        super.setupSideNavItem(item);
-        initMouseEventListeners();
     }
 
     private void initMouseEventListeners() {

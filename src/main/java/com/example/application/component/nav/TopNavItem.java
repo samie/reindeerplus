@@ -8,28 +8,28 @@ public class TopNavItem extends SideNavItem {
 
     public TopNavItem(String label) {
         super(label);
+        initMouseEventListeners();
     }
 
     public TopNavItem(String label, String path) {
-        super(label, path);
+        this(label);
+        setPath(path);
     }
 
     public TopNavItem(String label, Class<? extends Component> view) {
-        super(label, view);
+        this(label);
+        setPath(view);
     }
 
     public TopNavItem(String label, String path, Component prefixComponent) {
-        super(label, path, prefixComponent);
+        this(label);
+        setPath(path);
+        setPrefixComponent(prefixComponent);
     }
 
     public TopNavItem(String label, Class<? extends Component> view,
                       Component prefixComponent) {
         super(label, view, prefixComponent);
-    }
-
-    @Override
-    protected void setupSideNavItem(SideNavItem item) {
-        super.setupSideNavItem(item);
         initMouseEventListeners();
     }
 
