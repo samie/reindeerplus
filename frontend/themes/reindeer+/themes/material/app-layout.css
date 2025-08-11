@@ -1,3 +1,0 @@
-[theme~='material'] vaadin-app-layout::part(drawer) {
-    background: var(--material-surface-container-low);
-}
