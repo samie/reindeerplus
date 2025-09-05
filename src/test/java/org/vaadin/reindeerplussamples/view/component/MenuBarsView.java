@@ -1,6 +1,6 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.theme.MenuBarTheme;
+import org.vaadin.addons.reindeerplus.theme.MenuBarTheme;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.menubar.MenuBar;

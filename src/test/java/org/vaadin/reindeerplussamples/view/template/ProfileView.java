@@ -1,8 +1,8 @@
 package org.vaadin.reindeerplussamples.view.template;
 
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.utility.Breakpoint;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.utility.Breakpoint;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.avatar.Avatar;

@@ -1,6 +1,6 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.theme.TabTheme;
+import org.vaadin.addons.reindeerplus.theme.TabTheme;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.tabs.Tab;
 import com.vaadin.flow.component.tabs.Tabs;

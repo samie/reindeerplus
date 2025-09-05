@@ -1,13 +1,13 @@
 package org.vaadin.reindeerplussamples.view.template;
 
-import org.vaadin.reindeerplus.component.Badge;
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.component.field.PriceRangeField;
-import org.vaadin.reindeerplus.component.list.List;
-import org.vaadin.reindeerplus.component.list.ProductListItem;
-import org.vaadin.reindeerplus.theme.RadioButtonTheme;
-import org.vaadin.reindeerplus.utility.BadgeVariant;
+import org.vaadin.addons.reindeerplus.component.Badge;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.field.PriceRangeField;
+import org.vaadin.addons.reindeerplus.component.list.List;
+import org.vaadin.addons.reindeerplus.component.list.ProductListItem;
+import org.vaadin.addons.reindeerplus.theme.RadioButtonTheme;
+import org.vaadin.addons.reindeerplus.utility.BadgeVariant;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.Text;

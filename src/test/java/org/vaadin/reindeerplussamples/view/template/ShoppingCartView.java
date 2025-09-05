@@ -1,13 +1,13 @@
 package org.vaadin.reindeerplussamples.view.template;
 
-import org.vaadin.reindeerplus.component.InputGroup;
-import org.vaadin.reindeerplus.component.KeyValuePair;
-import org.vaadin.reindeerplus.component.KeyValuePairs;
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.list.List;
-import org.vaadin.reindeerplus.component.list.ShoppingCartListItem;
-import org.vaadin.reindeerplus.theme.ButtonTheme;
-import org.vaadin.reindeerplus.theme.InputTheme;
+import org.vaadin.addons.reindeerplus.component.InputGroup;
+import org.vaadin.addons.reindeerplus.component.KeyValuePair;
+import org.vaadin.addons.reindeerplus.component.KeyValuePairs;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.list.List;
+import org.vaadin.addons.reindeerplus.component.list.ShoppingCartListItem;
+import org.vaadin.addons.reindeerplus.theme.ButtonTheme;
+import org.vaadin.addons.reindeerplus.theme.InputTheme;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.Unit;

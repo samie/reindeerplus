@@ -1,7 +1,7 @@
 package org.vaadin.reindeerplussamples.dialog;
 
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
 import com.vaadin.flow.component.Unit;
 import com.vaadin.flow.component.avatar.Avatar;
 import com.vaadin.flow.component.avatar.AvatarVariant;

@@ -1,7 +1,7 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.theme.CheckboxTheme;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.theme.CheckboxTheme;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.Unit;

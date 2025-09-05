@@ -1,12 +1,12 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.Badge;
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.component.Tag;
-import org.vaadin.reindeerplus.component.list.*;
-import org.vaadin.reindeerplus.utility.BadgeVariant;
-import org.vaadin.reindeerplus.utility.Color;
+import org.vaadin.addons.reindeerplus.component.Badge;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.Tag;
+import org.vaadin.addons.reindeerplus.component.list.*;
+import org.vaadin.addons.reindeerplus.utility.BadgeVariant;
+import org.vaadin.addons.reindeerplus.utility.Color;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Text;
 import com.vaadin.flow.component.Unit;

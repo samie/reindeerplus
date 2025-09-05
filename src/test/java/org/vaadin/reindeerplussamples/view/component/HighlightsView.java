@@ -1,8 +1,8 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.*;
-import org.vaadin.reindeerplus.utility.Breakpoint;
-import org.vaadin.reindeerplus.utility.Color;
+import org.vaadin.addons.reindeerplus.component.*;
+import org.vaadin.addons.reindeerplus.utility.Breakpoint;
+import org.vaadin.addons.reindeerplus.utility.Color;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.ItemLabelGenerator;

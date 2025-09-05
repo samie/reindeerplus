@@ -1,8 +1,8 @@
 package org.vaadin.reindeerplussamples.dialog;
 
-import org.vaadin.reindeerplus.component.Item;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.theme.RadioButtonTheme;
+import org.vaadin.addons.reindeerplus.component.Item;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.theme.RadioButtonTheme;
 import org.vaadin.reindeerplussamples.view.template.ProfileView;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.html.Hr;

@@ -1,11 +1,18 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.Preview;
+import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
+import org.vaadin.addons.reindeerplus.component.Preview;
 import com.vaadin.flow.component.Component;
+import com.vaadin.flow.component.html.Div;
 import com.vaadin.flow.component.html.H2;
 import com.vaadin.flow.component.html.Main;
 import com.vaadin.flow.component.html.Paragraph;
+import com.vaadin.flow.component.tabs.Tab;
+import com.vaadin.flow.component.tabs.Tabs;
 import com.vaadin.flow.theme.lumo.LumoUtility.*;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class ComponentView extends Main {
 
@@ -33,4 +40,16 @@ public class ComponentView extends Main {
         add(new Preview(components));
     }
 
+    /**
+     * Adds a preview with component and its code sample.
+     *
+     * @param component The component to preview
+     * @param methodName The name of the method that creates the component
+     */
+    public void addPreview(Component component, String methodName) {
+        HorizontalLayout layout;
+        add(layout = new HorizontalLayout(new Preview(component)));
+        layout.setWidthFull();
+        layout.setWrap(true);
+    }
 }

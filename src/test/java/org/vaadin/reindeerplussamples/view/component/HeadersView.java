@@ -1,11 +1,11 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.Header;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.component.Tag;
-import org.vaadin.reindeerplus.component.nav.BreadcrumbItem;
-import org.vaadin.reindeerplus.utility.Font;
-import org.vaadin.reindeerplus.utility.HeadingLevel;
+import org.vaadin.addons.reindeerplus.component.Header;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.Tag;
+import org.vaadin.addons.reindeerplus.component.nav.BreadcrumbItem;
+import org.vaadin.addons.reindeerplus.utility.Font;
+import org.vaadin.addons.reindeerplus.utility.HeadingLevel;
 import org.vaadin.reindeerplussamples.view.HomeView;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.avatar.Avatar;

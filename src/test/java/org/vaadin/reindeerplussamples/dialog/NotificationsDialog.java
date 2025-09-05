@@ -1,7 +1,7 @@
 package org.vaadin.reindeerplussamples.dialog;
 
-import org.vaadin.reindeerplus.component.list.List;
-import org.vaadin.reindeerplus.component.list.MessageLinkListItem;
+import org.vaadin.addons.reindeerplus.component.list.List;
+import org.vaadin.addons.reindeerplus.component.list.MessageLinkListItem;
 import org.vaadin.reindeerplussamples.view.HomeView;
 import com.vaadin.flow.component.Unit;
 import com.vaadin.flow.component.popover.Popover;

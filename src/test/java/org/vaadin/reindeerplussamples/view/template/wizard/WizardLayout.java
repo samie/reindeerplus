@@ -1,8 +1,8 @@
 package org.vaadin.reindeerplussamples.view.template.wizard;
 
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.component.nav.Step;
-import org.vaadin.reindeerplus.component.nav.Stepper;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.nav.Step;
+import org.vaadin.addons.reindeerplus.component.nav.Stepper;
 import org.vaadin.reindeerplussamples.view.HomeView;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.HasElement;

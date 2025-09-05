@@ -1,10 +1,10 @@
 package org.vaadin.reindeerplussamples.view.ai;
 
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.component.list.FileListItem;
-import org.vaadin.reindeerplus.component.list.List;
-import org.vaadin.reindeerplus.theme.InputTheme;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.list.FileListItem;
+import org.vaadin.addons.reindeerplus.component.list.List;
+import org.vaadin.addons.reindeerplus.theme.InputTheme;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.button.ButtonVariant;
 import com.vaadin.flow.component.textfield.TextArea;

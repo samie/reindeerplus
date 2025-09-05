@@ -1,12 +1,12 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.InputGroup;
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.component.field.CreditCardField;
-import org.vaadin.reindeerplus.component.field.PriceField;
-import org.vaadin.reindeerplus.theme.ButtonTheme;
-import org.vaadin.reindeerplus.theme.InputTheme;
+import org.vaadin.addons.reindeerplus.component.InputGroup;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.field.CreditCardField;
+import org.vaadin.addons.reindeerplus.component.field.PriceField;
+import org.vaadin.addons.reindeerplus.theme.ButtonTheme;
+import org.vaadin.addons.reindeerplus.theme.InputTheme;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.button.Button;

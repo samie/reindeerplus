@@ -1,14 +1,14 @@
 package org.vaadin.reindeerplussamples.view.template;
 
-import org.vaadin.reindeerplus.component.*;
-import org.vaadin.reindeerplus.component.Header;
-import org.vaadin.reindeerplus.component.Span;
-import org.vaadin.reindeerplus.component.list.List;
-import org.vaadin.reindeerplus.component.list.MessageListItem;
-import org.vaadin.reindeerplus.theme.RadioButtonTheme;
-import org.vaadin.reindeerplus.utility.BadgeVariant;
-import org.vaadin.reindeerplus.utility.Color;
-import org.vaadin.reindeerplus.utility.Font;
+import org.vaadin.addons.reindeerplus.component.*;
+import org.vaadin.addons.reindeerplus.component.Header;
+import org.vaadin.addons.reindeerplus.component.Span;
+import org.vaadin.addons.reindeerplus.component.list.List;
+import org.vaadin.addons.reindeerplus.component.list.MessageListItem;
+import org.vaadin.addons.reindeerplus.theme.RadioButtonTheme;
+import org.vaadin.addons.reindeerplus.utility.BadgeVariant;
+import org.vaadin.addons.reindeerplus.utility.Color;
+import org.vaadin.addons.reindeerplus.utility.Font;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import org.vaadin.reindeerplussamples.view.component.HighlightsView;
 import com.vaadin.flow.component.Component;

@@ -1,12 +1,12 @@
 package org.vaadin.reindeerplussamples.view.template;
 
-import org.vaadin.reindeerplus.component.Header;
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.theme.RadioButtonTheme;
-import org.vaadin.reindeerplus.theme.UploadTheme;
-import org.vaadin.reindeerplus.utility.Breakpoint;
-import org.vaadin.reindeerplus.utility.Font;
+import org.vaadin.addons.reindeerplus.component.Header;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.theme.RadioButtonTheme;
+import org.vaadin.addons.reindeerplus.theme.UploadTheme;
+import org.vaadin.addons.reindeerplus.utility.Breakpoint;
+import org.vaadin.addons.reindeerplus.utility.Font;
 import org.vaadin.reindeerplussamples.view.HomeView;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;

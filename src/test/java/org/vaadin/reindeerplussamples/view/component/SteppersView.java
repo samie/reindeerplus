@@ -1,7 +1,7 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.nav.Step;
-import org.vaadin.reindeerplus.component.nav.Stepper;
+import org.vaadin.addons.reindeerplus.component.nav.Step;
+import org.vaadin.addons.reindeerplus.component.nav.Stepper;
 import org.vaadin.reindeerplussamples.view.HomeView;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.router.PageTitle;

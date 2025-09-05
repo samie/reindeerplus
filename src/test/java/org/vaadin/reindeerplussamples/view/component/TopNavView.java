@@ -1,8 +1,8 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.MaterialSymbol;
-import org.vaadin.reindeerplus.component.nav.TopNav;
-import org.vaadin.reindeerplus.component.nav.TopNavItem;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.nav.TopNav;
+import org.vaadin.addons.reindeerplus.component.nav.TopNavItem;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import org.vaadin.reindeerplussamples.view.template.ProfileView;
 import com.vaadin.flow.router.PageTitle;

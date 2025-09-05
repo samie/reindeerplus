@@ -1,9 +1,9 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.KeyValuePair;
-import org.vaadin.reindeerplus.component.KeyValuePairs;
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.KeyValuePair;
+import org.vaadin.addons.reindeerplus.component.KeyValuePairs;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.router.PageTitle;

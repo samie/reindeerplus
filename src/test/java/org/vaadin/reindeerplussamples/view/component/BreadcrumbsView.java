@@ -1,7 +1,7 @@
 package org.vaadin.reindeerplussamples.view.component;
 
-import org.vaadin.reindeerplus.component.nav.Breadcrumb;
-import org.vaadin.reindeerplus.component.nav.BreadcrumbItem;
+import org.vaadin.addons.reindeerplus.component.nav.Breadcrumb;
+import org.vaadin.addons.reindeerplus.component.nav.BreadcrumbItem;
 import org.vaadin.reindeerplussamples.view.HomeView;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.router.PageTitle;

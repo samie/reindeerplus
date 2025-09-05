@@ -1,11 +1,11 @@
 package org.vaadin.reindeerplussamples.view.template;
 
-import org.vaadin.reindeerplus.component.*;
-import org.vaadin.reindeerplus.component.field.ExpirationDateField;
-import org.vaadin.reindeerplus.theme.ButtonTheme;
-import org.vaadin.reindeerplus.theme.InputTheme;
-import org.vaadin.reindeerplus.theme.RadioButtonTheme;
-import org.vaadin.reindeerplus.utility.Breakpoint;
+import org.vaadin.addons.reindeerplus.component.*;
+import org.vaadin.addons.reindeerplus.component.field.ExpirationDateField;
+import org.vaadin.addons.reindeerplus.theme.ButtonTheme;
+import org.vaadin.addons.reindeerplus.theme.InputTheme;
+import org.vaadin.addons.reindeerplus.theme.RadioButtonTheme;
+import org.vaadin.addons.reindeerplus.utility.Breakpoint;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.Unit;

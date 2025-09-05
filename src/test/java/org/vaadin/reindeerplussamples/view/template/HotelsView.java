@@ -1,10 +1,10 @@
 package org.vaadin.reindeerplussamples.view.template;
 
-import org.vaadin.reindeerplus.component.*;
-import org.vaadin.reindeerplus.component.Span;
-import org.vaadin.reindeerplus.theme.RadioButtonTheme;
-import org.vaadin.reindeerplus.utility.BadgeVariant;
-import org.vaadin.reindeerplus.utility.Breakpoint;
+import org.vaadin.addons.reindeerplus.component.*;
+import org.vaadin.addons.reindeerplus.component.Span;
+import org.vaadin.addons.reindeerplus.theme.RadioButtonTheme;
+import org.vaadin.addons.reindeerplus.utility.BadgeVariant;
+import org.vaadin.addons.reindeerplus.utility.Breakpoint;
 import org.vaadin.reindeerplussamples.view.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.Unit;

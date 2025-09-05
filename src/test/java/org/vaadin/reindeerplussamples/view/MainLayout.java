@@ -1,13 +1,13 @@
 package org.vaadin.reindeerplussamples.view;
 
-import org.vaadin.reindeerplus.component.Badge;
-import org.vaadin.reindeerplus.component.Layout;
-import org.vaadin.reindeerplus.component.MaterialSymbol;
+import org.vaadin.addons.reindeerplus.component.Badge;
+import org.vaadin.addons.reindeerplus.component.Layout;
+import org.vaadin.addons.reindeerplus.component.MaterialSymbol;
 
 import org.vaadin.reindeerplussamples.dialog.MessagesDialog;
 import org.vaadin.reindeerplussamples.dialog.NotificationsDialog;
 import org.vaadin.reindeerplussamples.dialog.UserDialog;
-import org.vaadin.reindeerplus.utility.BadgeVariant;
+import org.vaadin.addons.reindeerplus.utility.BadgeVariant;
 import org.vaadin.reindeerplussamples.view.ai.InputView;
 import org.vaadin.reindeerplussamples.view.component.*;
 import org.vaadin.reindeerplussamples.view.template.*;
